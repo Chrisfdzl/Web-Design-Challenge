@@ -9,7 +9,7 @@ body {
  .box{
     padding: 10px;
     background: rgb(255, 255, 255);
-    margin-top:50px;
+    margin-top:auto;
     margin-left:5px;
     margin-right:5px;
     margin-bottom:20px;
@@ -63,7 +63,7 @@ body {
       margin-left: 22px;
     }
     .navbar ul {
-      visibility: hidden;
+      visibility: visible;
     }
     #nav-select {
       visibility: visible;
@@ -72,7 +72,7 @@ body {
   
   .col-1 {width: 8%;}
   .col-2 {width: 17%;}
-  .col-3 {width: 24%;}
+  .col-3 {width: 25%;}
   .col-4 {width: 32%;}
   .col-5 {width: 40%;}
   .col-6 {width: 50%;}
